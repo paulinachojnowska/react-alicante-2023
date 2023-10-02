@@ -1,0 +1,68 @@
+/* .hljs {
+	display: block;
+	overflow-x: auto;
+	padding: 0.5em;
+	color: #e4f0fb;
+	background-color: rgb(27, 30, 40);
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-selector-class,
+.hljs-literal,
+.hljs-strong,
+.hljs-name,
+.hljs-string {
+	color: #5de4c7;
+}
+
+.hljs-code {
+	color: #66d9ef;
+}
+
+.hljs-class .hljs-title {
+	color: #add7ff;
+}
+
+.hljs-symbol,
+.hljs-regexp,
+.hljs-link {
+	color: #e4f0fb;
+}
+
+.hljs-bullet,
+.hljs-subst,
+.hljs-title,
+.hljs-section,
+.hljs-emphasis,
+.hljs-type,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-selector-attr,
+.hljs-selector-pseudo,
+.hljs-addition,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-attribute,
+.hljs-attr {
+	color: #add7ff;
+}
+
+.hljs-comment,
+.hljs-quote,
+.hljs-deletion,
+.hljs-meta {
+	color: #a6accd;
+} */
+
+/* panda-dark */
+/* pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}.hljs{color:#e6e6e6;background:#2a2c2d}.hljs-emphasis{font-style:italic}.hljs-strong{font-weight:700}.hljs-link{text-decoration:underline}.hljs-comment,.hljs-quote{color:#bbb;font-style:italic}.hljs-params{color:#bbb}.hljs-attr,.hljs-punctuation{color:#e6e6e6}.hljs-meta,.hljs-name,.hljs-selector-tag{color:#ff4b82}.hljs-char.escape_,.hljs-operator{color:#b084eb}.hljs-deletion,.hljs-keyword{color:#ff75b5}.hljs-regexp,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-variable.language_{color:#ff9ac1}.hljs-code,.hljs-formula,.hljs-property,.hljs-section,.hljs-subst,.hljs-title.function_{color:#45a9f9}.hljs-addition,.hljs-bullet,.hljs-meta .hljs-string,.hljs-selector-class,.hljs-string,.hljs-symbol,.hljs-title.class_,.hljs-title.class_.inherited__{color:#19f9d8}.hljs-attribute,.hljs-built_in,.hljs-doctag,.hljs-link,.hljs-literal,.hljs-meta .hljs-keyword,.hljs-number,.hljs-punctuation,.hljs-selector-id,.hljs-tag,.hljs-template-tag,.hljs-template-variable,.hljs-title,.hljs-type,.hljs-variable{color:#ffb86c} */
+
+/* panda-light */
+/* pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}.hljs{color:#2a2c2d;background:#e6e6e6}.hljs-emphasis{font-style:italic}.hljs-strong{font-weight:700}.hljs-link{text-decoration:underline}.hljs-comment,.hljs-quote{color:#676b79;font-style:italic}.hljs-params{color:#676b79}.hljs-attr,.hljs-punctuation{color:#2a2c2d}.hljs-char.escape_,.hljs-meta,.hljs-name,.hljs-operator,.hljs-selector-tag{color:#c56200}.hljs-deletion,.hljs-keyword{color:#d92792}.hljs-regexp,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-variable.language_{color:#cc5e91}.hljs-code,.hljs-formula,.hljs-property,.hljs-section,.hljs-subst,.hljs-title.function_{color:#3787c7}.hljs-addition,.hljs-bullet,.hljs-meta .hljs-string,.hljs-selector-class,.hljs-string,.hljs-symbol,.hljs-title.class_,.hljs-title.class_.inherited__{color:#0d7d6c}.hljs-attribute,.hljs-built_in,.hljs-doctag,.hljs-link,.hljs-literal,.hljs-meta .hljs-keyword,.hljs-number,.hljs-selector-id,.hljs-tag,.hljs-template-tag,.hljs-template-variable,.hljs-title,.hljs-type,.hljs-variable{color:#7641bb} */
+
+/* summerfruit-light */
+pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}.hljs{color:#101010;background:#fff}.hljs ::selection,.hljs::selection{background-color:#d0d0d0;color:#101010}.hljs-comment{color:#b0b0b0}.hljs-tag{color:#000}.hljs-operator,.hljs-punctuation,.hljs-subst{color:#101010}.hljs-operator{opacity:.7}.hljs-bullet,.hljs-deletion,.hljs-name,.hljs-selector-tag,.hljs-template-variable,.hljs-variable{color:#ff0086}.hljs-attr,.hljs-link,.hljs-literal,.hljs-number,.hljs-symbol,.hljs-variable.constant_{color:#fd8900}.hljs-class .hljs-title,.hljs-title,.hljs-title.class_{color:#aba800}.hljs-strong{font-weight:700;color:#aba800}.hljs-addition,.hljs-code,.hljs-string,.hljs-title.class_.inherited__{color:#00c918}.hljs-built_in,.hljs-doctag,.hljs-keyword.hljs-atrule,.hljs-quote,.hljs-regexp{color:#1faaaa}.hljs-attribute,.hljs-function .hljs-title,.hljs-section,.hljs-title.function_,.ruby .hljs-property{color:#3777e6}.diff .hljs-meta,.hljs-keyword,.hljs-template-tag,.hljs-type{color:#ad00a1}.hljs-emphasis{color:#ad00a1;font-style:italic}.hljs-meta,.hljs-meta .hljs-keyword,.hljs-meta .hljs-string{color:#c63}.hljs-meta .hljs-keyword,.hljs-meta-keyword{font-weight:700}
+
+/* harmonic16-light */
+/* pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}.hljs{color:#405c79;background:#f7f9fb}.hljs ::selection,.hljs::selection{background-color:#cbd6e2;color:#405c79}.hljs-comment{color:#aabcce}.hljs-tag{color:#627e99}.hljs-operator,.hljs-punctuation,.hljs-subst{color:#405c79}.hljs-operator{opacity:.7}.hljs-bullet,.hljs-deletion,.hljs-name,.hljs-selector-tag,.hljs-template-variable,.hljs-variable{color:#bf8b56}.hljs-attr,.hljs-link,.hljs-literal,.hljs-number,.hljs-symbol,.hljs-variable.constant_{color:#bfbf56}.hljs-class .hljs-title,.hljs-title,.hljs-title.class_{color:#8bbf56}.hljs-strong{font-weight:700;color:#8bbf56}.hljs-addition,.hljs-code,.hljs-string,.hljs-title.class_.inherited__{color:#56bf8b}.hljs-built_in,.hljs-doctag,.hljs-keyword.hljs-atrule,.hljs-quote,.hljs-regexp{color:#568bbf}.hljs-attribute,.hljs-function .hljs-title,.hljs-section,.hljs-title.function_,.ruby .hljs-property{color:#8b56bf}.diff .hljs-meta,.hljs-keyword,.hljs-template-tag,.hljs-type{color:#bf568b}.hljs-emphasis{color:#bf568b;font-style:italic}.hljs-meta,.hljs-meta .hljs-keyword,.hljs-meta .hljs-string{color:#bf5656}.hljs-meta .hljs-keyword,.hljs-meta-keyword{font-weight:700} */
